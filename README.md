@@ -1,0 +1,1 @@
+# angular2_standart_directory
